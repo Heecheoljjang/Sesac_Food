@@ -63,12 +63,12 @@
 				9733A5472872C4AE00633FA9 /* AppDelegate.swift */,
 				9733A5492872C4AE00633FA9 /* SceneDelegate.swift */,
 				9733A54B2872C4AE00633FA9 /* ViewController.swift */,
+				978BC6112877B966000DF86E /* SecondViewController.swift */,
 				978BC60F2877B5EA000DF86E /* GithubTestViewController.swift */,
 				9733A54D2872C4AE00633FA9 /* Main.storyboard */,
 				9733A5502872C4AF00633FA9 /* Assets.xcassets */,
 				9733A5522872C4AF00633FA9 /* LaunchScreen.storyboard */,
 				9733A5552872C4AF00633FA9 /* Info.plist */,
-				978BC6112877B966000DF86E /* SecondViewController.swift */,
 			);
 			path = Food;
 			sourceTree = "<group>";
