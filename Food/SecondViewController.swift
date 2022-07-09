@@ -22,7 +22,9 @@ class SecondViewController: UIViewController {
         myLabel.textColor = .blue
         
         changeBtn.setTitle("크기 변경", for: .normal)
-        changeBtn.setTitle("\(labelSlider.value)", for: .highlighted)
+        changeBtn.setTitleColor(.gray, for: .normal)
+        changeBtn.setTitleColor(.gray, for: .highlighted)
+
         
         labelSlider.tintColor = .yellow
         
