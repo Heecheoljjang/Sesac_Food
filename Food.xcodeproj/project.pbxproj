@@ -17,6 +17,7 @@
 		978BC6122877B966000DF86E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978BC6112877B966000DF86E /* SecondViewController.swift */; };
 		978BC63A28791522000DF86E /* DeliveryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978BC63928791522000DF86E /* DeliveryViewController.swift */; };
 		978BC6D5287B0FCB000DF86E /* KakaotalkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978BC6D4287B0FCB000DF86E /* KakaotalkViewController.swift */; };
+		978BC6D7287B2A95000DF86E /* MusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978BC6D6287B2A95000DF86E /* MusicViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		978BC6112877B966000DF86E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		978BC63928791522000DF86E /* DeliveryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryViewController.swift; sourceTree = "<group>"; };
 		978BC6D4287B0FCB000DF86E /* KakaotalkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KakaotalkViewController.swift; sourceTree = "<group>"; };
+		978BC6D6287B2A95000DF86E /* MusicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				978BC6D4287B0FCB000DF86E /* KakaotalkViewController.swift */,
 				978BC63928791522000DF86E /* DeliveryViewController.swift */,
 				9733A5502872C4AF00633FA9 /* Assets.xcassets */,
+				978BC6D6287B2A95000DF86E /* MusicViewController.swift */,
 				9733A5522872C4AF00633FA9 /* LaunchScreen.storyboard */,
 				9733A5552872C4AF00633FA9 /* Info.plist */,
 			);
@@ -154,6 +157,7 @@
 				9733A5482872C4AE00633FA9 /* AppDelegate.swift in Sources */,
 				978BC63A28791522000DF86E /* DeliveryViewController.swift in Sources */,
 				9733A54A2872C4AE00633FA9 /* SceneDelegate.swift in Sources */,
+				978BC6D7287B2A95000DF86E /* MusicViewController.swift in Sources */,
 				978BC6122877B966000DF86E /* SecondViewController.swift in Sources */,
 				978BC6102877B5EA000DF86E /* GithubTestViewController.swift in Sources */,
 				978BC6D5287B0FCB000DF86E /* KakaotalkViewController.swift in Sources */,
