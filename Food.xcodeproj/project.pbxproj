@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		971F65B6287C7E7800B3EB33 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971F65B5287C7E7800B3EB33 /* TestViewController.swift */; };
 		9733A5482872C4AE00633FA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9733A5472872C4AE00633FA9 /* AppDelegate.swift */; };
 		9733A54A2872C4AE00633FA9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9733A5492872C4AE00633FA9 /* SceneDelegate.swift */; };
 		9733A54C2872C4AE00633FA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9733A54B2872C4AE00633FA9 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		971F65B5287C7E7800B3EB33 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		9733A5442872C4AE00633FA9 /* Food.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Food.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9733A5472872C4AE00633FA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9733A5492872C4AE00633FA9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				978BC6112877B966000DF86E /* SecondViewController.swift */,
 				978BC60F2877B5EA000DF86E /* GithubTestViewController.swift */,
 				9733A54D2872C4AE00633FA9 /* Main.storyboard */,
+				971F65B5287C7E7800B3EB33 /* TestViewController.swift */,
 				978BC6D4287B0FCB000DF86E /* KakaotalkViewController.swift */,
 				978BC63928791522000DF86E /* DeliveryViewController.swift */,
 				9733A5502872C4AF00633FA9 /* Assets.xcassets */,
@@ -160,6 +163,7 @@
 				978BC6D7287B2A95000DF86E /* MusicViewController.swift in Sources */,
 				978BC6122877B966000DF86E /* SecondViewController.swift in Sources */,
 				978BC6102877B5EA000DF86E /* GithubTestViewController.swift in Sources */,
+				971F65B6287C7E7800B3EB33 /* TestViewController.swift in Sources */,
 				978BC6D5287B0FCB000DF86E /* KakaotalkViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
